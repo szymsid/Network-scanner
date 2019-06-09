@@ -40,3 +40,6 @@ arg:
 -u UDP scan
 -w window scan
 -x XMAS scan
+
+
+Projekt został sworzony na uczelnię w celach naukowych.
